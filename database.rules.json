@@ -1,0 +1,6 @@
+{
+  "rules": {
+    ".read": "now < ~",  
+    ".write": "now < ~"  
+  }
+}
